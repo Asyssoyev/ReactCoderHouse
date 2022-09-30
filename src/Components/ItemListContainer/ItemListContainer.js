@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const ItemListConstainer = (props) => {
+export const ItemListContainer = (props) => {
   return (
     <div>{props.greeting}</div>
   )
